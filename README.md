@@ -17,6 +17,6 @@ La réponse de notre action
 
 ## Exemple
 
-uses: Pandrz/hellowordaction@v1
+uses: PaulineAndrz/hellowordaction@v1.1
 with:
     name: Toto
